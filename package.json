@@ -1,0 +1,21 @@
+{
+  "name": "my-first-frog",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "frog dev"
+  },
+  "dependencies": {
+    "@hono/node-server": "latest",
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "frog": "latest",
+    "hono": "^4",
+    "next": "^14.2.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "typescript": "latest"
+  }
+}
